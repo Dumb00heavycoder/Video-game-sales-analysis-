@@ -8,12 +8,6 @@ regional trends and publisher performance
 - Contains game titles, release year, publisher, and regional sales
 - Regions: NA, EU, JP, Other, Global
 
-## Questions Answered
-- Which year had the highest global sales?
-- Which publisher dominates Japan?
-- Which region contributes most to global sales?
-- How have sales trends changed over time?
-
 ## Key Insights
 - North America is the largest contributor to global sales
 - Nintendo leads sales in Japan by a large margin
