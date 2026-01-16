@@ -9,10 +9,12 @@ regional trends and publisher performance
 - Regions: NA, EU, JP, Other, Global
 
 ## Key Insights
+- Most Global sales was in 2008
 - North America is the largest contributor to global sales
 - Nintendo leads sales in Japan by a large margin
-- Global sales peaked in late 2000s
-- Few blockbuster games drive most revenue
+- Electronic Arts has published the most of games
+- Japan's contribution in Global sale is 14.57%
+- Wii Sports is globally most successful game
 
 ## Tools Used
 - Python
