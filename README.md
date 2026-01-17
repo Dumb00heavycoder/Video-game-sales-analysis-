@@ -7,6 +7,7 @@ regional trends and publisher performance
 ## Dataset
 - Contains game titles, release year, publisher, and regional sales
 - Regions: NA, EU, JP, Other, Global
+- Data set has 16598 rows and 11 columns 
 
 ## Key Insights
 - Most Global sales was in 2008
